@@ -1,6 +1,7 @@
 public class Operations {
     public int add(int a, int b){
         System.out.println("This is add method for 2 params");
+        System.out.println("This is add method for 2 params");
         return a+b;
     }
     public int add(int a, int b, int c){
