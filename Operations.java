@@ -1,6 +1,9 @@
 import java.math.BigInteger;
 
 public class Operations {
+    public static void main(String[] args) {
+        System.out.println(args[0]);
+    }
     public BigInteger add(BigInteger a, BigInteger b){
         System.out.println("This is add method for 2 params");
         System.out.println("This is add method for 2 params");
